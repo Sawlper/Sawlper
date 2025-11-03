@@ -7,10 +7,10 @@
 > I'm probably the most awkward person in any room.
 
 
-* 🌱 CSE student at United International University (UIU).
-* 💻 Building a foundation in C, Data Structures, and Algorithms.
-* 🧠 Exploring Machine Learning and game development with Unreal Engine 5.
-* 🚨 Actively solving problems on HackerRank.
+* CSE student at United International University (UIU).
+* Building a foundation in C, Data Structures, and Algorithms.
+* Exploring Machine Learning and game development with Unreal Engine 5.
+* Actively solving problems on HackerRank.
 
 <p>
 📫 Reach me at <a href="mailto:anikhasan2@icloud.com">anikhasan2@icloud.com</a><br>
