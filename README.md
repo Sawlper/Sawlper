@@ -1,4 +1,4 @@
-<h1>Hi, I'm <span style="color:#00FFFF;">Anik </span></h1>
+<h1>Hey there, I'm <span style="color:#00FFFF;">Anik </span></h1>
 <h3>AKA Sawlper</h3>
 
 ## ⚙️ About Me
